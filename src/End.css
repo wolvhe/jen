@@ -1,0 +1,27 @@
+.footer-distributed{
+	background-color: #001E46;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+    width: 100%;
+    max-height: 150px;
+	font: bold 16px sans-serif;
+    padding: 55px 50px;
+    margin-top: 80px;
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.footer-text{
+    text-decoration: none;
+    font-weight: lighter;
+    color: white;
+    cursor: pointer;
+}
+.copy{
+    color: white;
+    cursor: none;
+    font-weight: lighter;
+}
